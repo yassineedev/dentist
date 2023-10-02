@@ -1,0 +1,19 @@
+body{
+    /* The background image */
+    background: linear-gradient(90deg, rgba(8,3,96,1) 4%, rgba(125,51,149,1) 50%, rgba(17,102,191,1) 100%);;
+  
+    /* Set a specified height, or the minimum height for the background image */
+    min-height: 500px;
+  
+    /* Set background image to fixed (don't scroll along with the page) */
+    background-attachment: fixed;
+  
+    /* Center the background image */
+    background-position: center;
+  
+    /* Set the background image to no repeat */
+    background-repeat: no-repeat;
+  
+    /* Scale the background image to be as large as possible */
+    background-size: cover;
+  }
